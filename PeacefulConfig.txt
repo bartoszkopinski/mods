@@ -1,0 +1,8 @@
+#To set each mod on or off, change to true to turn mods on or false to turn mods off. Block ids must be below or equal 256 if not using Minecraft extended.
+#Sat Nov 02 20:27:09 CET 2013
+FlaxBlockID=234
+FossilBlockID=112
+FlaxActive=true
+FossilsActive=true
+SulphurBlockID=243
+SulphurActive=true
