@@ -1,7 +1,7 @@
 ### SETUP
 * W Minecraft Launcher -> Edit profile -> Use version, wybieramy "1.6.4"
 * Klikamy "Play", czekamy załadowanie, wychodzimy z gry
-* Ściągamy paczkę [stąd](https://docs.google.com/a/netguru.pl/uc?authuser=1&id=0Bx7HTw5QxvkTWjYxaFRwY1pYSms&export=download)
+* Ściągamy paczkę [stąd](https://drive.google.com/a/netguru.pl/file/d/0Bx7HTw5QxvkTWjYxaFRwY1pYSms/edit?usp=sharing)
 * Rozpakowujemy
 * Odpalamy Forge Installer:
 ```sh
