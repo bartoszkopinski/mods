@@ -1,0 +1,15 @@
+Title=Score: 
+AlignMode= 
+Chicken=-5
+Slime=25
+Cow=-10
+Sheep=-10
+Pig=-10
+Squid=0
+Wolf=-25
+Zombie=75
+Spider=100
+Skeleton=125
+PigZombie=150
+Creeper=200
+Ghast=300
